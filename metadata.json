@@ -1,0 +1,6 @@
+{
+  "name": "Image Scroll Search",
+  "description": "A vertical-scrolling, full-screen image browser feed inspired by Reels and YouTube Shorts, displaying Google Image search results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
